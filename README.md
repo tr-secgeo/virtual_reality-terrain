@@ -1,5 +1,6 @@
 ## Panoramik Görüntüler yayınlama
  Panoramik görüntüler üzerinden; 
+ 
        - TKGM Parsel Sorgu dan parsel hakkında bilgi edinebilme yeteneği, 
        - Parseller arasında dinamik geçiş yapabilme yeteneği,
        - Dinamik Temel yönleri gösterebilme yeteneği,
