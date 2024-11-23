@@ -1,13 +1,13 @@
 ## Panoramik Görüntüler yayınlama
  Panoramik görüntüler üzerinden; 
  
-       - TKGM Parsel Sorgu dan parsel hakkında bilgi edinebilme yeteneği, 
-       - Parseller arasında dinamik geçiş yapabilme yeteneği,
-       - Dinamik Temel yönleri gösterebilme yeteneği,
-       - Ekranı büyütme/küçültme yapabilme yeteneği,
-       - Açık Kaynaklı Haritalar ile birlikte çalışabilme yeteneği,
+       - TKGM Parsel Sorgu dan parsel hakkında bilgi edinebilme, 
+       - Parseller arasında dinamik geçiş yapabilme,
+       - Dinamik Temel yönleri gösterebilme,
+       - Ekranı büyütme/küçültme yapabilme,
+       - Açık Kaynaklı Haritalar ile birlikte çalışabilme,
 
- olan, temel bir panoramik görüntüler ile oluşturduğumuz, web uygulamasıdır...
+ yetenekleri olan, panoramik görüntüler ile oluşturduğumuz, temel seviye de bir web uygulamasıdır...
 
 
 
