@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20966" hassounds="0" appversion="7.1.6" start="node1">
+  <panorama id="node1" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="2048" overlap="1" leveltilesize="510" levelingroll="0" width="2048">
+      <level height="2048" preload="0" predecode="0" width="2048"/>
+      <level height="1024" preload="0" predecode="0" width="1024"/>
+      <level height="512" preload="0" predecode="0" width="512"/>
+      <level height="256" preload="1" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-152.85" fovmode="0">
+      <start fov="70" pan="-133.187" projection="4" tilt="-64.1415"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="Gülagac" heading="-152.85" latitude="38.401696" customnodeid="" description="" copyright="" source="" altitude="1271.95" nodeid="node1" datetime="11.9.2022 15:59" title="Ada/Parsel : 5947" author="" longitude="34.328292"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="1" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x00007f" backgroundcolor="0x00aaff"/>
+      <hotspot customimage="media/parselsorgulama.jpg" id="Point02" distance3D="580.284" pan="-183.2" url="https://parselsorgu.tkgm.gov.tr/#ara/idari/169043/0/5947/1666161648592" target="_blank" description="" fov="7.0999999999999996" skinid="ht_url" tilt="-55.25" customimagewidth="72" title="TKGM Parsel Sorgu" customimageheight="72" use3D="0"/>
+      <hotspot id="Point01" pan="-59.91" url="" skinid="ht_info" tilt="-70.81" target="" title=" Ada/Parsel : 5947" description="Tapu Alanı : 11000 m2&#xa;Nitelik : Tarla&#xa;İlçe: Gülağaç&#xa;İl : Aksaray"/>
+      <hotspot id="Point03" pan="-209.037" url="{node3}" target="$fwd" description="" skinid="ht_node" tilt="0" distance="1531.19" title="Ada/Parsel : 1023/4"/>
+      <hotspot id="Point04" pan="-314.424" url="{node2}" target="$fwd" description="" skinid="ht_node" tilt="0" distance="6357.43" title="Ada/Parsel : 1073/12"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-56.28/-67.02|-54.42/-68.88|-49.94/-71.79|-0.28/-77.53|-192.45/-52.9|-186.73/-51.71|-176.65/-44.8|-171.18/-41.18|-158.34/-51.85|-142.5/-58.85|-136.23/-65.72|-125.99/-68.86|-114.46/-71.4|-85.24/-71.51</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="2048" overlap="1" leveltilesize="510" levelingroll="0" width="2048">
+      <level height="2048" preload="0" predecode="0" width="2048"/>
+      <level height="1024" preload="0" predecode="0" width="1024"/>
+      <level height="512" preload="0" predecode="0" width="512"/>
+      <level height="256" preload="1" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-152.85" fovmode="0">
+      <start fov="91.3464" pan="-98.5024" projection="4" tilt="-17.214"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="Gülagac" heading="-152.85" latitude="38.409358" customnodeid="" description="" copyright="" source="" altitude="1259.72" nodeid="node3" datetime="11.9.2022 15:27" title="Ada/Parsel : 1023/4" author="" longitude="34.342893"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="1" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x00007f" backgroundcolor="0x00aaff"/>
+      <hotspot id="Point01" pan="-29.0464" url="{node1}" target="$fwd" description="" skinid="ht_node" tilt="0" distance="1531.19" title="Ada/Parsel : 5947"/>
+      <hotspot id="Point02" pan="-58.95" url="" skinid="ht_info" tilt="-29.94" target="" title="Ada/Parsel : 1023/4" description="Tapu Alanı : 27311.45 m2&#xa;Nitelik : Tarla&#xa;İlçe: Gülağaç&#xa;İl : Aksaray"/>
+      <hotspot customimage="media/parselsorgulama.jpg" id="Point03" distance3D="542.927" pan="-114.24" url="https://parselsorgu.tkgm.gov.tr/#ara/idari/169043/1023/4/1666264360474" target="_blank" description="" fov="10" skinid="ht_url" tilt="-48.91" customimagewidth="95" title="TKGM Parsel Sorgu" customimageheight="95" use3D="0"/>
+      <hotspot id="Point04" pan="-326.746" url="{node2}" target="$fwd" description="" skinid="ht_node" tilt="0" distance="6922.96" title="Ada/Parsel : 1073/12"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-124.52/-54.1|-52.22/-35.7|-57.39/-32.13|-55.21/-29.98|-84.07/-5.85|-96.23/-8.95|-117.34/-6.88|-123.77/-53.14</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="2048" overlap="1" leveltilesize="510" levelingroll="0" width="2048">
+      <level height="2048" preload="0" predecode="0" width="2048"/>
+      <level height="1024" preload="0" predecode="0" width="1024"/>
+      <level height="512" preload="0" predecode="0" width="512"/>
+      <level height="256" preload="1" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-152.854" fovmode="0">
+      <start fov="81.6605" pan="58.2034" projection="4" tilt="-46.5857"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="Gülagac" heading="-152.854" latitude="38.347451" customnodeid="" description="" copyright="" source="" altitude="1285.60" nodeid="node2" datetime="11.9.2022 16:33" title="Ada/Parsel : 1073/12" author="" longitude="34.351334"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="1" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x00007f" backgroundcolor="0x00aaff"/>
+      <hotspot id="Point01" pan="-134.443" url="{node1}" target="$fwd" description="" skinid="ht_node" tilt="0" distance="6357.43" title="Ada/Parsel : 5947"/>
+      <hotspot id="Point02" pan="-267.25" url="" skinid="ht_info" tilt="-28.8" target="" title="Ada/Parsel : 1073/12" description="Tapu Alanı : 5351.18 m2&#xa;Nitelik : Tarla&#xa;İlçe: Gülağaç&#xa;İl : Aksaray"/>
+      <hotspot id="Point03" pan="-146.756" url="{node3}" target="$fwd" description="" skinid="ht_node" tilt="0" distance="6922.96" title="Ada/Parsel : 1023/4"/>
+      <hotspot customimage="media/parselsorgulama.jpg" id="Point04" distance3D="354.332" pan="38.53" url="https://parselsorgu.tkgm.gov.tr/#ara/idari/169043/1073/12/1666266004849" target="_blank" description="" fov="10" skinid="ht_url" tilt="-33.77" customimagewidth="62" title="TKGM Parsel Sorgu" customimageheight="62" use3D="0"/>
+      <polyhotspot id="Poly01" url="" target="_blank" title="" description="">
+        <polystring>-5.25/-57.37|-264.17/-28.04|-282.69/-21.14|-323.01/-29.86</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" comment="" tags="" title="" author="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map id="secmap" index="0" type="web" mapstyle="streets" googlecustomstylecode="" mapmaxzoom="18" mapprovider="openstreetmap" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title=""/>
+</tour>
