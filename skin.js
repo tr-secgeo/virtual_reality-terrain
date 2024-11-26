@@ -1,7 +1,4 @@
-// Garden Gnome Software - Skin
-// Pano2VR 7.1.6/20966
-// Filename: arsa_arazi_menu.ggsk
-// Generated 2024-11-22T00:12:24
+
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_image_popup', 2, false, { ignoreInState: 0  });
