@@ -1,12 +1,4 @@
-//////////////////////////////////////////////////////////////////////
-// Pano2VR 7.1.6/20966 HTML5/CSS3 & WebGL Panorama Player           //
-// License: Hamdi Secilmis                                          //
-// (c) 2024, Garden Gnome Software, https://ggnome.com              //
-//////////////////////////////////////////////////////////////////////
 
-/*
- Copyright 2005-2024 Garden Gnome GmbH.
- All rights reserved
 */
 var Yb="function"==typeof Object.defineProperties?Object.defineProperty:function(nb,ub,rb){if(nb==Array.prototype||nb==Object.prototype)return nb;nb[ub]=rb.value;return nb};function Zb(nb){nb=["object"==typeof globalThis&&globalThis,nb,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var ub=0;ub<nb.length;++ub){var rb=nb[ub];if(rb&&rb.Math==Math)return rb}throw Error("Cannot find global object");}var $b=Zb(this);
 function bd(nb,ub){if(ub)a:{var rb=$b;nb=nb.split(".");for(var pb=0;pb<nb.length-1;pb++){var qb=nb[pb];if(!(qb in rb))break a;rb=rb[qb]}nb=nb[nb.length-1];pb=rb[nb];ub=ub(pb);ub!=pb&&null!=ub&&Yb(rb,nb,{configurable:!0,writable:!0,value:ub})}}bd("Array.prototype.includes",function(nb){return nb?nb:function(ub,rb){var pb=this;pb instanceof String&&(pb=String(pb));var qb=pb.length;rb=rb||0;for(0>rb&&(rb=Math.max(rb+qb,0));rb<qb;rb++){var lb=pb[rb];if(lb===ub||Object.is(lb,ub))return!0}return!1}});
